@@ -31,6 +31,6 @@
 
     <!--Injection point for tracking scripts and user content from the code injection tab.-->
     {squarespace-footers}
-
+    <squarespace:script src="main.js" combo="true" />
   </body>
 </html>
