@@ -1,1 +1,1 @@
-console.log("main.js connected to site")
+console.log("main.js connected to site");
